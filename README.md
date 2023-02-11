@@ -1,7 +1,7 @@
 # OS_Translator
 ---
 
-OS Translator is Desktop applications that can Translate very accurately & very fast 
+OS Translator is Desktop applications that can Translate very accurately & very fast with awesome Auto Fast Translate Shortcut
 
 **pros of App**
 
