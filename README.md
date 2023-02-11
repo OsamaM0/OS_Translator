@@ -57,9 +57,17 @@ press at the star button behind, and whole translate will at to star bookmarks
   <img src="./data/image/readme image/bookmark.png" title="bookmarks Example">
 </p>
 
+---
+
+# Instructions 
+1- Don't separate data folder from Translator.exe the must be at same folder
+2- to make `Auto Fast Translate` work just enable your Clipboard by Press win + v button then press enable buttton
+3- if Auto Translate Doesn't apper just restart the app
+
 
 
 # Link Download it 
+---
 ## Git link
 https://github.com/OsamaM0/OS_Translator.git
 
