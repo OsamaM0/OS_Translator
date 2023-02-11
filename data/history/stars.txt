@@ -1,0 +1,36 @@
+
+src[
+To delete stared trans
+  1- Select all text in target one
+  2-delete the selection text
+  3- press "confirm delete" button
+
+
+
+
+
+
+
+]
+dest[
+
+
+
+
+
+
+
+
+
+]
+
+src[
+Osama
+
+
+]
+dest[
+オサマ
+
+
+]
