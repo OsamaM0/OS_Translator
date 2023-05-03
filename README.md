@@ -1,80 +1,55 @@
 # OS_Translator
----
 
-OS Translator is Desktop applications that can Translate very accurately & very fast with awesome Auto Fast Translate Shortcut
+OS Translator is a desktop application that can translate text very accurately and very fast, with an awesome Auto Fast Translate shortcut. 
 
-**pros of App**
+## Features
+- Supports over one hundred different languages 🤯🤯
+- Very similar to Google Translate 🌟
+- Supports Auto Fast Translate using the `Ctrl + C` shortcut 😉
+- Comes with six different themes to choose from - Dark-blue, Dark-Dark-blue, Dark-green, Light-blue, Light-Dark-blue, and Light-green ❤❤
+- Supports Star Translate ⭐ - you can bookmark any translation you want.
+- Features a progress bar that keeps moving while there is internet, and stops when you're offline to notify you. 
 
-1- suppot over one hundred deffrence language 🤯🤯
+There are many more features to discover!
 
-2- Very similar to Google Translate 🌟
-
-3- support `Auto Fast Translate` by `Ctrl + C` short cut 😉
-
-4- have 6 different theme Dark-blue, Dark-Dark-blue, Dark-green, Light-blue, Light-Dark-blue, Light-green ❤❤
-
-5- Support Star Translate ⭐ , can book mark any translate you want 
-
-6- Support progress bar that keep moving during there is internet and if you offline it stop moving to notifi you 
-
-6- and many many more, just descover it 
-
-
----
 ## Application Inside 
 
 <p align="center">
   <img src="./data/image/readme image/Firs_main.png" title="Main Window"  width=750>
 </p>
 
-
-## Change The Theme to Light green 
+## Change the Theme to Light Green 
 
 <p align="center">
   <img src="./data/image/readme image/green_main.png" title="Light Green Main Window" width=750>
 </p>
 
-
-### You can find 6 different themes
+### Six Different Themes to Choose From
 
 <p align="center">
   <img src="./data/image/readme image/Appearance Mode.png" title="Program themes" >
 </p>
 
 ## Auto Fast Translate 
-just press Ctrl+c and keep our program doing it's job
+Just press `Ctrl+C` and let our program do the rest.
 
 <p align="center">
   <img src="./data/image/readme image/auto_fast.png" title="Auto Fast Translate Example"  width=750 >
 </p>
 
-
-
 ## Star & Bookmark
-press at the star button behind, and whole translate will at to star bookmarks
+Press the star button to bookmark any translation.
 
 <p align="center">
-  <img src="./data/image/readme image/bookmark.png" title="bookmarks Example">
+  <img src="./data/image/readme image/bookmark.png" title="Bookmarks Example">
 </p>
-
----
 
 # Instructions 
 
-1- Don't separate data folder from Translator.exe the must be at same folder
+1. Don't separate the data folder from Translator.exe - they must be in the same folder.
+2. To make `Auto Fast Translate` work, just enable your Clipboard by pressing `Win + V`, then press the Enable button.
+3. If Auto Translate doesn't appear, just restart the app.
 
-2- to make `Auto Fast Translate` work just enable your Clipboard by Press win + v button then press enable buttton
-
-3- if Auto Translate Doesn't apper just restart the app
-
-
-
-# Link Download it 
----
-## Git link
-https://github.com/OsamaM0/OS_Translator.git
-
-## Direct Download Link as zip folder
-https://github.com/OsamaM0/OS_Translator/archive/refs/heads/main.zip
-
-
+# Download Links
+- Git link: https://github.com/OsamaM0/OS_Translator.git
+- Direct download link as zip folder: https://github.com/OsamaM0/OS_Translator/archive/refs/heads/main.zip
